@@ -1,0 +1,33 @@
+<style>
+.box {
+  /* relative positioning */
+  position: relative;
+  width: 150px;
+  height: 150px;
+  background: #2db34a;
+  border: 2px solid black;
+}
+
+
+h1 {font-size: 48px;
+	text-align: left;
+	margin-bottom: 15px;
+	text-decoration: bold;
+	background-color: teal;
+	color: white;
+}
+h2{
+	font-size: 24px;
+	text-align: left;
+	text-decoration: bold;
+	background-color: white;
+	color: teal;
+}
+u1{
+	font-size: 20px;
+	text-aligh: right-side;
+	text-decoration: italic
+	background-color: black;
+	color: blue;
+}
+</style>
